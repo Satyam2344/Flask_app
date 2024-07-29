@@ -21,4 +21,4 @@ pip install virtualenv
 
 # Run app
 
-python./app.py
+python ./app.py
