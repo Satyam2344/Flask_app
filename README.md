@@ -3,13 +3,13 @@ THis is Flask todo list
 
 # Install Virtual Envionment
 pip install virtualenv
-virtualenv env
-./env/Scripts/activate.ps1
-/*If there is something error then open powershell on computer and type*/
-Set-ExecutionPolicy
+=>virtualenv env
+=>./env/Scripts/activate.ps1
+=>/*If there is something error then open powershell on computer and type*/
+=>Set-ExecutionPolicy
 
-//Always activate virtual environment before run the application
-./env/Scripts/activate.ps1
+=>//Always activate virtual environment before run the application
+=>./env/Scripts/activate.ps1
 
 # We are using SQLAlchemy, to create db :
 ./env/Scripts/activate.ps1
